@@ -4,7 +4,7 @@
 
 <p>
   
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **BigData**
 - 🌱 I’m currently learning **IICS/Python/AWS/ApacheSpark**
 - 🤔 I’m looking for help with **IICS** 
 - 💬 Ask me about **Cloud Computing**
